@@ -10,5 +10,6 @@ int main(){
     printf("Value of pi: %lf\n", pi);
     printf("Value of pi: %lf\n", *ptr);
 
+
     return 0;
 }
